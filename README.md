@@ -1,5 +1,7 @@
-### ¡Holaaa, soy Ari! 
-No sé qué hago aquí, pero acá me tienes👋
+### ¡Hooola, soy Ari! 
+No sé qué hago aquí, pero acá me tenés👋
+
+Me considero una persona un poco aleatoria, razón por la cual estoy acá :P
 
 <!--
 **Ariadnabarrera/Ariadnabarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
