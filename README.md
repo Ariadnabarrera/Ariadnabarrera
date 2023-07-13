@@ -1,4 +1,6 @@
-### ¡Hooola, soy Ari! 
+###
+![Bienvenida-Github](https://github.com/Ariadnabarrera/Ariadnabarrera/assets/75050137/34896ed4-5404-4f36-a3ac-4e129158b95f)
+¡Hooola, soy Ari! 
 No sé qué hago aquí, pero acá me tenés👋
 
 Me considero una persona un poco aleatoria, razón por la cual estoy acá :P
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
